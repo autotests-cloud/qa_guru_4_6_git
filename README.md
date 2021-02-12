@@ -3,3 +3,4 @@
 3. Added 2 files in IDEA
 4. Added develop branch
 5. Alex changed README
+6. Changes from second branch
